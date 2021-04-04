@@ -9,13 +9,17 @@
 //     </>
 //   )
 // }
+import Menu from '@components/Menu';
 
 export default function Footer() {
   return (
+    <>
     <footer className="bg-blue-900 text-gray-100">
       <div className="container">
         <small> RMI &copy;2021</small>
       </div>
     </footer>
+    <Menu />
+    </>
   )
 }

@@ -1,45 +1,49 @@
+import Link from 'next/Link';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // Import the FontAwesomeIcon component
+import { faBars } from "@fortawesome/free-solid-svg-icons"; // import the icons you need
+
 export default function Header() {
   return (
-    <header class="header">
-      <div class="bg-blue-900 text-gray-200">
-        <div class="container pt-2 py-1">
-          <span class="mr-4">Created by</span
-          ><img
-            src="/images/rmi_horizontal_white.svg"
-            alt="rmi-logo"
-            class="inline-block align-baseline h-6"
-          />
-        </div>
-      </div>
-      <div class="bg-blue-600 py-3">
-      <div class="container flex justify-between items-center">
-        <div class="font-display">
-          <a href="index.html">
-            <h1 class="text-gray-100 text-3xl font-semibold">
-              Utility Transition Hub<sup>TM</sup>
-            </h1>
-            <p class="text-gray-200 tracking-wide text-xl">
-              Charting Utility Decarbonization
-            </p>
+    <header className="header">
+      <div className="bg-blue-900 text-gray-200">
+        <div className="container pt-2 py-1">
+          <span className="mr-4">Created by</span>
+          <a href="https://rmi.org" target="_blank">
+            <img
+              src="/images/images/rmi_horizontal_white.svg"
+              alt="rmi-logo"
+              className="inline-block align-baseline h-6"
+            />
           </a>
         </div>
+      </div>
+      <div className="bg-blue-600 py-3">
+      <div className="container flex justify-between items-center">
+        <div className="font-display">
+          <Link href="/">
+            <a>
+              <h1 className="text-gray-100 text-3xl font-semibold">
+                Utility Transition Hub<sup>TM</sup>
+              </h1>
+              <p className="text-gray-200 tracking-wide text-xl">
+                Charting Utility Decarbonization
+              </p>
+            </a>
+          </Link>
+        </div>
         <div>
-          <nav class="flex items-center">
-            <a
-              href="https://rmi.org/scorecard"
-              class="text-gray-100 inline-block ml-10 duration-300 hover:text-green"
-              >Data Portal</a
-            >
-            <a
-              href="/publications.html"
-              class="text-gray-100 inline-block ml-10 duration-300 hover:text-green"
-              >Publications</a
-            >
+          <nav className="flex items-center">
+            <Link href="/portal">
+              <a className="text-gray-100 inline-block ml-10 duration-300 hover:text-green">Data Portal</a>
+            </Link>
+            <Link href="/insights">
+              <a className="text-gray-100 inline-block ml-10 duration-300 hover:text-green">Publications</a>
+            </Link>
             <button
               id="menu-open"
-              class="text-gray-100 inline-block ml-10 duration-300 hover:text-green text-xl"
+              className="text-gray-100 inline-block ml-10 duration-300 hover:text-green text-xl"
             >
-              <i class="far fa-bars"></i>
+              <FontAwesomeIcon icon={faBars}></FontAwesomeIcon>
             </button>
           </nav>
         </div>
