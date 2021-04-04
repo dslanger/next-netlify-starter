@@ -6,7 +6,8 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"export": "next export"
+		"export": "next export",
+		"deploy": "npm run dev && git ac 'deploy' && git push origin main"
 	},
 	"dependencies": {
 		"gsap": "^3.6.1",

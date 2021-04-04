@@ -8,7 +8,6 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-        <script src="https://kit.fontawesome.com/7c6af98b79.js" crossorigin="anonymous"></script>
         <link
             rel="preload"
             href="/fonts/metropolis/Metropolis-Regular.woff"
