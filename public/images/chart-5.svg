@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="779px" height="765px" viewBox="0 0 779 765" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 314</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-314">
+            <g id="Group" transform="translate(101.629000, 594.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Metropolis-Bold, Metropolis" font-size="32" font-weight="bold">
+                <text id="Transport">
+                    <tspan x="0" y="31">Transport</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#92AEC5" fill-rule="nonzero" x="54.629" y="600.545" width="32" height="32"></rect>
+            <g id="Group" transform="translate(101.629000, 528.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Metropolis-Bold, Metropolis" font-size="32" font-weight="bold">
+                <text id="Buildings">
+                    <tspan x="0" y="31">Buildings</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#E1E6F0" fill-rule="nonzero" x="54.629" y="534.545" width="32" height="32"></rect>
+            <g id="Group" transform="translate(101.629000, 660.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Metropolis-Bold, Metropolis" font-size="32" font-weight="bold">
+                <text id="Industry">
+                    <tspan x="0" y="31">Industry</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#58595B" fill-rule="nonzero" x="54.629" y="666.545" width="32" height="32"></rect>
+            <g id="Group" transform="translate(101.629000, 462.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Metropolis-Bold, Metropolis" font-size="32" font-weight="bold">
+                <text id="Electricity">
+                    <tspan x="0" y="31">Electricity</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#FFCB00" fill-rule="nonzero" x="54.629" y="468.545" width="32" height="32"></rect>
+            <g id="Group" transform="translate(101.629000, 726.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Metropolis-Bold, Metropolis" font-size="32" font-weight="bold">
+                <text id="Energy-Emissions-BAU">
+                    <tspan x="0" y="31">Energy Emissions BAU</tspan>
+                </text>
+            </g>
+            <line x1="54.5" y1="748.5" x2="86.5" y2="748.5" id="Path" stroke="#BF0436" stroke-width="7" stroke-dasharray="10"></line>
+            <g id="Group" transform="translate(12.000000, 408.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2005">
+                    <tspan x="0.16" y="21">2005</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(100.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2010">
+                    <tspan x="0.383" y="21">2010</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(186.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2015">
+                    <tspan x="0.79" y="21">2015</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(262.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2020">
+                    <tspan x="0.952" y="21">2020</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(338.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2025">
+                    <tspan x="0.436" y="21">2025</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(415.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2030">
+                    <tspan x="0.864" y="21">2030</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(495.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2035">
+                    <tspan x="0.447" y="21">2035</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(650.000000, 408.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2045">
+                    <tspan x="0.512" y="21">2045</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(571.000000, 408.326000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2040">
+                    <tspan x="0.94" y="21">2040</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(729.000000, 408.545000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="22" font-weight="normal">
+                <text id="2050">
+                    <tspan x="0.16" y="21">2050</tspan>
+                </text>
+            </g>
+            <g id="Group" opacity="0.996" transform="translate(38.000000, 64.000000)" fill-rule="nonzero">
+                <g transform="translate(0.072000, 0.975000)" id="Path">
+                    <path d="M0.928,337.693 L0.928,0.6 L18.448,5.689 L32.035,0.6 L46.964,11.095 L63.738,34.628 L80.176,25.247 L112.549,43.374 L144.419,32.562 L192.392,49.262 L206.482,40.517 L228.455,51.8 C228.455,51.8 257.306,75.651 284.815,89.644 C312.324,103.637 343.187,116.993 449.868,250.558 C465.3,267.73 506.228,337.058 717.576,328.158 L717.576,337.698 L0.928,337.693 Z" fill="#58595B"></path>
+                    <path d="M0.928,337.694 L0.928,43.147 L15.261,47.676 L32.37,41.805 C32.37,41.805 46.46,50.024 47.131,50.527 C47.802,51.03 63.905,69.314 63.905,69.314 L80.847,61.095 L96.279,70.153 L112.885,84.243 L127.985,77.533 L143.752,74.682 L160.358,83.069 L190.551,91.624 L208.163,84.244 C208.163,84.244 266.703,125.344 290.354,136.41 C314.005,147.476 369.861,188.744 449.368,272.78 C472.012,293.915 509.586,337.946 717.412,333.417 L717.412,337.694 L0.928,337.694 Z" fill="#92AEC5"></path>
+                    <path d="M0.928,337.693 L0.928,159.221 L16.659,167.121 L31.867,161.457 L47.522,161.457 L64.3,177.557 L80.4,171.057 L96.279,177.336 L111.934,188.518 L128.26,183.374 L140.784,182.032 L192.223,202.384 L208.773,198.135 C208.773,198.135 262.673,228.999 323.058,254.495 C383.443,279.991 483.414,320.248 494.821,323.603 C506.228,326.958 582.939,338.14 662.11,337.693 C535.749,337.706028 0.928,337.693 0.928,337.693 Z" fill="#E1E6F0"></path>
+                    <path d="M0.928,337.692 L0.928,195.452 L17.442,198.807 L31.532,193.44 L47.97,196.795 L65.415,210.549 L80.847,203.169 L112.381,217.259 L145.258,216.588 C145.258,216.588 179.141,233.697 192.224,235.039 C197.591,234.704 207.656,234.033 207.656,234.033 C207.656,234.033 366.335,332.157 635.049,337.692 L0.928,337.692 Z" fill="#FFCB00"></path>
+                </g>
+            </g>
+            <g id="Group" opacity="0.45" transform="translate(39.000000, 65.000000)" fill-rule="nonzero">
+                <path d="M0,337.668 L0,0.575 L17.52,5.664 L31.107,0.575 L46.036,11.07 L62.81,34.603 L79.248,25.222 L111.621,43.349 L143.491,32.537 L191.464,49.237 L205.554,40.492 L227.527,51.775 C227.527,51.775 256.378,75.626 283.887,89.619 C311.396,103.612 342.259,116.968 448.94,250.533 C464.372,267.705 505.3,337.033 716.648,328.133 L716.648,337.673 L0,337.668 Z" id="Path" fill="#58595B"></path>
+                <path d="M0,337.669 L0,43.122 L14.333,47.651 L31.442,41.78 C31.442,41.78 45.532,49.999 46.203,50.502 C46.874,51.005 62.977,69.289 62.977,69.289 L79.919,61.07 L95.351,70.128 L111.957,84.218 L127.057,77.508 L142.824,74.657 L159.43,83.044 L189.623,91.599 L207.235,84.219 C207.235,84.219 265.775,125.319 289.426,136.385 C313.077,147.451 368.933,188.719 448.44,272.755 C471.084,293.89 508.658,337.921 716.484,333.392 L716.484,337.669 L0,337.669 Z" id="Path" fill="#92AEC5"></path>
+                <path d="M0,337.668 L0,159.196 L15.731,167.096 L30.939,161.432 L46.594,161.432 L63.372,177.532 L79.472,171.032 L95.351,177.311 L111.006,188.493 L127.332,183.349 L139.856,182.007 L191.295,202.359 L207.845,198.11 C207.845,198.11 261.745,228.974 322.13,254.47 C382.515,279.966 482.486,320.223 493.893,323.578 C505.3,326.933 582.011,338.115 661.182,337.668 C534.821,337.681028 0,337.668 0,337.668 Z" id="Path" fill="#E1E6F0"></path>
+                <path d="M0,337.667 L0,195.427 L16.514,198.782 L30.604,193.415 L47.042,196.77 L64.487,210.524 L79.919,203.144 L111.453,217.234 L144.33,216.563 C144.33,216.563 178.213,233.672 191.296,235.014 C196.663,234.679 206.728,234.008 206.728,234.008 C206.728,234.008 365.407,332.132 634.121,337.667 L0,337.667 Z" id="Path" fill="#FFCB00"></path>
+            </g>
+            <path d="M39,65.575 L56.512,70.94 L70.093,65.575 L85.015,76.641 L101.781,101.455 L118.212,91.563 L150.572,110.675 L182.428,99.275 L230.379,116.875 L244.463,107.654 L266.427,119.554 L360.541,140.232 L445.489,143.865 L544.072,143.865 L591.017,141.015 L659.758,138.668 L712.404,133.974 L753.984,128.274" id="Path" stroke="#BF0436" stroke-width="5" stroke-dasharray="15"></path>
+            <line x1="20.5" y1="402.679" x2="777.867" y2="402.679" id="Path" stroke="#FFFFFF" stroke-width="4"></line>
+            <g id="Group">
+                <g transform="translate(0.000000, 387.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="0">
+                    <text>
+                        <tspan x="0.444" y="18">0</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0.000000, 56.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="6">
+                    <text>
+                        <tspan x="0.948" y="18">6</tspan>
+                    </text>
+                </g>
+                <g transform="translate(1.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="7">
+                    <text>
+                        <tspan x="0.992" y="18">7</tspan>
+                    </text>
+                </g>
+                <g transform="translate(1.000000, 112.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="5">
+                    <text>
+                        <tspan x="0.11" y="18">5</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0.000000, 168.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="4">
+                    <text>
+                        <tspan x="0.75" y="18">4</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0.000000, 225.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="3">
+                    <text>
+                        <tspan x="0.866" y="18">3</tspan>
+                    </text>
+                </g>
+                <g transform="translate(1.000000, 281.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="2">
+                    <text>
+                        <tspan x="0.758" y="18">2</tspan>
+                    </text>
+                </g>
+                <g transform="translate(3.000000, 337.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="18" font-weight="normal" id="1">
+                    <text>
+                        <tspan x="0.384" y="18">1</tspan>
+                    </text>
+                </g>
+                <g opacity="0.295" transform="translate(20.000000, 11.000000)" id="Path" stroke="#FFFFFF">
+                    <line x1="0.5" y1="0.5" x2="758.72" y2="0.5"></line>
+                    <line x1="0.5" y1="56.5" x2="758.72" y2="56.5"></line>
+                    <line x1="0.5" y1="112.5" x2="758.72" y2="112.5"></line>
+                    <line x1="0.5" y1="168.5" x2="758.72" y2="168.5"></line>
+                    <line x1="0.5" y1="224.5" x2="758.72" y2="224.5"></line>
+                    <line x1="0.5" y1="280.5" x2="758.72" y2="280.5"></line>
+                    <line x1="0.5" y1="337.5" x2="758.72" y2="337.5"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -4,14 +4,21 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://kit.fontawesome.com/7c6af98b79.js" crossorigin="anonymous"></script>
+        <link
+            rel="preload"
+            href="/fonts/metropolis/Metropolis-Regular.woff"
+            as="font"
+            crossOrigin=""
+          />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
