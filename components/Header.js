@@ -1,6 +1,4 @@
 import Link from 'next/Link';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // Import the FontAwesomeIcon component
-import { faBars } from "@fortawesome/free-solid-svg-icons"; // import the icons you need
 
 export default function Header() {
   return (
@@ -43,7 +41,6 @@ export default function Header() {
               id="menu-open"
               className="text-gray-100 inline-block ml-10 duration-300 hover:text-green text-xl"
             >
-              <FontAwesomeIcon icon={faBars}></FontAwesomeIcon>
             </button>
           </nav>
         </div>
